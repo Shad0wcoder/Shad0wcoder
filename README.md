@@ -64,15 +64,3 @@
 - Tech: Python, SQL, Pandas, Matplotlib, Seaborn.
 
 ---
-
-### 📊 GitHub Statistics
-
-<!-- Add GitHub stats cards here -->
-
----
-
-### 🤝 Connect With Me
-
-- LinkedIn: YOUR_LINKEDIN_URL
-- Email: YOUR_EMAIL
-- GitHub: https://github.com/YOUR_USERNAME
